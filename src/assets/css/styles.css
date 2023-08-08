@@ -1,0 +1,19 @@
+header{
+    background-color: #b9c0c4;
+    display: flex;
+    justify-content: space-between;
+}
+
+header div .logo img{
+    height: 100px;
+}
+
+header div .encabezado .titulo,
+header div .encabezado .clase,
+header div .encabezado .fuente{
+    color: white;
+}
+
+header .avatar-publicar, header .avatar-publicar .avatar{
+    display: flex;
+}
